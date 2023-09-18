@@ -4,7 +4,7 @@
 
 # Lannister Labs
 
-Welcome to Lannister Labs - Where Excellence Meets Innovation in Software Development!
+Welcome to Lannister Labs - Where software prowess meets Lannister ambition, crafting apps that make a royal impact in the digital realm.
 
 ## About Us
 
